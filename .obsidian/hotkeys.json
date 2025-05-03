@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:00_Template/00_current_date.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": ";"
+    }
+  ],
+  "templater-obsidian:create-00_Template/00_current_date.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "'"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+/* ========================= */
+/* 🎨 グラフビューのノードの色を変更 */
+/* ========================= */
+.graph-view.color-class {
+	/* #HEX、rgb、rgbaといったCSSのすべてのカラーディレクティブをサポートしています */
+	color:   Blue;
+	color:   Blue;
+	color:   rgb(0, 0, 0);
+	color:   rgba(0, 0, 0, 1);
+	/* Opacity(rgbaに似た)は色を透明にします */
+	opacity: 0.5;
+}

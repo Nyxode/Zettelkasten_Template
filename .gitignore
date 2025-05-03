@@ -1,0 +1,22 @@
+# macOS 系
+.DS_Store
+
+# Obsidian ワークスペース・キャッシュ
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/graph.json
+
+# プラグイン設定で漏洩が不安なもの
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/node_modules/
+
+# スニペット（無効化されたCSS）
+.obsidian/snippets/*.disabled.css
+
+# ゴミ箱
+.trash/
+
+# その他一時ファイル
+*.log
+*.tmp

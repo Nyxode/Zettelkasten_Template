@@ -1,0 +1,32 @@
+/* Propertiesの見出しを隠す（空白も含めて） */
+.metadata-properties-heading {
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+}
+
+/* Propertiesの追加ボタンを隠す（空白も含めて） */
+.metadata-container .metadata-add-button {
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+}
+
+/* 親要素の余白を調整（空白を完全に削除） */
+div.metadata-properties {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Templaterの左のアイコンを隠す */
+#rb-templater-icon {
+    display: none;
+}
+
+
+.side-dock-ribbon-action[title="Templater"] {
+    display: none;
+}
+

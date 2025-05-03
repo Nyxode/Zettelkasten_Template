@@ -1,0 +1,21 @@
+{
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "00_Assets",
+  "newFileFolderPath": "",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "trashOption": "none",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
+}

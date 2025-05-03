@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "print",
+    "hide-properties",
+    "community",
+    "Dataview"
+  ],
+  "translucency": false
+}
