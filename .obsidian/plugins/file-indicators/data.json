@@ -1,0 +1,22 @@
+{
+  "defaultColor": "#8A5CF5",
+  "defaultShape": "CIRCLE",
+  "shapes": [],
+  "indicators": [
+    {
+      "dataPath": "00_Assets",
+      "color": "#8A5CF5",
+      "shape": "CIRCLE"
+    },
+    {
+      "dataPath": "00_Dataview",
+      "color": "#8A5CF5",
+      "shape": "CIRCLE"
+    },
+    {
+      "dataPath": "00_Template",
+      "color": "#8A5CF5",
+      "shape": "CIRCLE"
+    }
+  ]
+}

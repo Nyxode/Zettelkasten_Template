@@ -1,0 +1,7 @@
+{
+  "things-style@@mobile-black-background": false,
+  "things-style@@default-font-color": false,
+  "floating-toc-styles@@floating-toc-remove-heading-indicator": false,
+  "floating-toc-styles@@toggle-floating-toc-header-color": false,
+  "floating-toc-styles@@floating-toc-header-background-color@@dark": "#FF7100"
+}
