@@ -7,10 +7,6 @@
 .obsidian/cache/
 .obsidian/graph.json
 
-# プラグイン設定で漏洩が不安なもの
-.obsidian/plugins/**/data.json
-.obsidian/plugins/**/node_modules/
-
 # スニペット（無効化されたCSS）
 .obsidian/snippets/*.disabled.css
 
